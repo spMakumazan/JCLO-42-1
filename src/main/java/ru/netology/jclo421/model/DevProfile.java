@@ -1,4 +1,4 @@
-package ru.netology.jclo421;
+package ru.netology.jclo421.model;
 
 public class DevProfile implements SystemProfile {
     @Override

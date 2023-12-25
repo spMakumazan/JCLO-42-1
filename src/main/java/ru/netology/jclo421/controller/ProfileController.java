@@ -1,8 +1,9 @@
-package ru.netology.jclo421;
+package ru.netology.jclo421.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import ru.netology.jclo421.model.SystemProfile;
 
 @RestController
 @RequestMapping("/")
